@@ -3,7 +3,7 @@ Discord counter voice channel
 
 # Instalacion
 ```text
-https://github.com/TriangulitoG/Verificacion-DearthCraft.git
+https://github.com/TriangulitoG/Discord-counter-voice-channel.git
 ```
 
 Edita el archivo 'index.js' pon el *TOKEN* y donde quieres que envíe el enbed
