@@ -3,7 +3,7 @@ Discord counter voice channel
 
 # Instalacion
 ```text
-git cloettps://github.com/TriangulitoG/Discord-counter-voice-channel.git
+git clone https://github.com/TriangulitoG/Discord-counter-voice-channel.git
 ```
 
 Edita el archivo 'index.js' pon el *TOKEN*
