@@ -6,7 +6,7 @@ Discord counter voice channel
 https://github.com/TriangulitoG/Discord-counter-voice-channel.git
 ```
 
-Edita el archivo 'index.js' pon el *TOKEN* y donde quieres que envíe el enbed
+Edita el archivo 'index.js' pon el *TOKEN*
 
 ```js
 client.login('TOKEN_BOT');
