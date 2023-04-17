@@ -6,7 +6,7 @@ Discord counter voice channel
 git clone https://github.com/TriangulitoG/Discord-counter-voice-channel.git
 ```
 
-Edita el archivo 'index.js' pon el *TOKEN*
+Edita el archivo `index.js` pon el *TOKEN*
 
 ```js
 client.login('TOKEN_BOT');
